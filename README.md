@@ -1,0 +1,1 @@
+This is Bridget's first git project!
